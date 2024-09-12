@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>with few credentials filled</description>
+   <name>Register Phone Number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6af6d1e9-85f2-4ab9-8ce8-6515e18e95a2</testCaseGuid>
+</TestCaseEntity>

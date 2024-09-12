@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>ac5abb6e-744c-4284-bee3-fff404a3212a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>path:nth-of-type(9)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>1adc891c-0d55-45e7-9d8d-7fdcc97f15ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#7ee6e6</value>
+      <webElementGuid>78675af2-e9ac-4d37-99fa-f1375f11798c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M213.58 76.27L213.65 76.34L210.64 76.19L210.54 76.09Q208.19 76.02 207.39 75.91L207.28 75.80L207.36 75.88Q205.50 75.50 204.32 74.63L204.40 74.71L204.39 74.70Q203.14 73.33 202.91 69.98L202.90 69.97L202.92 70.00Q202.77 69.39 202.70 68.17L202.72 68.20L202.68 68.15Q202.61 67.67 202.54 66.57L202.55 66.58L202.60 66.62Q202.55 65.78 202.59 65.05L202.70 65.17L202.67 65.14Q202.74 63.07 203.76 62.31L203.80 62.35L203.95 62.50Q205.76 61.22 210.59 60.99L210.57 60.97L210.63 61.03Q212.59 60.85 213.39 60.85L213.51 60.97L213.49 60.95Q214.90 60.89 216.27 61.19L216.28 61.20L216.28 61.20Q215.63 62.38 215.10 64.20L215.16 64.26L215.27 64.37Q214.63 64.30 214.13 64.27L214.28 64.42L214.27 64.40Q214.07 64.28 213.54 64.17L213.63 64.26L212.67 64.02L212.69 64.04Q211.58 63.73 210.97 63.77L210.97 63.77L210.93 63.73Q206.16 63.75 205.55 66.57L205.63 66.65L205.69 66.71Q205.28 67.71 205.35 68.66L205.46 68.76L205.37 68.68Q205.63 71.37 206.87 72.46L206.76 72.35L206.78 72.37Q208.10 73.53 210.68 73.57L210.57 73.45L210.61 73.49Q212.18 73.62 212.90 73.31L212.88 73.29L213.92 72.80L213.82 72.71Q214.32 72.45 214.89 72.37L215.05 72.53L214.96 72.44Q215.25 74.29 215.63 75.58L215.54 75.50L215.66 75.61Q215.45 76.01 213.66 76.36ZM216.78 79.17L216.76 79.15L216.70 79.09Q217.09 79.14 217.93 79.21L218.00 79.29L218.03 79.32Q218.75 79.43 219.10 78.86L219.04 78.81L219.01 78.78Q217.72 76.60 217.22 74.51L217.37 74.66L217.39 74.68Q216.88 74.47 216.42 74.47L216.57 74.62L216.48 74.53Q215.98 74.45 215.60 74.64L215.67 74.71L215.69 74.73Q215.42 73.54 215.27 72.14L215.16 72.03L215.26 72.14Q214.55 71.95 213.33 72.52L213.30 72.50L213.46 72.66Q212.07 73.05 211.57 73.05L211.71 73.19L211.60 73.08Q211.14 73.11 210.53 73.07L210.61 73.15L210.60 73.15Q209.62 73.04 207.64 72.47L207.63 72.46L207.63 72.46Q207.43 71.88 207.47 70.74L207.43 70.70L207.33 70.60Q207.65 66.50 212.60 65.96L212.59 65.96L212.49 65.86Q213.19 65.87 214.56 66.21L214.49 66.14L214.58 66.23Q215.98 66.61 216.70 66.57L216.70 66.57L216.74 66.60Q217.12 64.32 217.80 62.49L217.69 62.38L217.84 62.53Q217.50 62.45 217.11 62.37L216.98 62.24L216.36 62.30L216.21 62.15Q216.48 61.74 216.86 60.87L216.80 60.80L216.91 60.91Q215.21 60.40 213.65 60.40L213.76 60.50L213.71 60.46Q211.38 60.52 207.00 60.91L206.93 60.83L207.05 60.95Q205.01 61.01 203.45 62.00L203.41 61.96L203.51 62.05Q202.31 63.02 202.31 64.93L202.23 64.85L202.34 64.96Q202.18 65.21 202.29 66.43L202.32 66.46L202.27 66.41Q202.49 67.59 202.46 68.20L202.37 68.12L202.43 68.17Q202.49 70.09 203.21 73.82L203.19 73.80L203.12 73.73Q203.56 74.63 204.05 75.12L204.07 75.14L204.24 75.31L204.40 75.43L204.38 75.41Q205.25 77.39 209.17 78.00L209.16 77.98L209.29 78.12Q212.51 78.67 215.18 78.94L214.99 78.75L215.04 78.80Q215.98 79.02 216.89 79.28Z</value>
+      <webElementGuid>481e7b5b-bac7-4d78-a0cc-62307ce1904f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;register-banner&quot;)/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;col-11 mx-auto&quot;]/div[@class=&quot;d-flex flex-md-row flex-column container mx-auto vh-100&quot;]/div[@class=&quot;col-12 col-md-4 justify-content-center right-side&quot;]/div[@class=&quot;ec-row py-5 ms-3&quot;]/div[@class=&quot;col-12 d-flex flex-column justify-content-center&quot;]/div[3]/form[@class=&quot;pb-5 ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;d-flex flex-column pb-2&quot;]/div[@class=&quot;col-12 px-0&quot;]/app-captcha-viewer[1]/div[@class=&quot;ec-col-12 mb-1 img-responsive w-100&quot;]/svg[1]/path[9]</value>
+      <webElementGuid>3107de59-4494-41c8-9ff0-53964178ba8f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
