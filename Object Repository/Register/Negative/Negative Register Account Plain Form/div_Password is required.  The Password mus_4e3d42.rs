@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Password is required.  The Password mus_4e3d42</name>
+   <tag></tag>
+   <elementGuidId>f662d487-1af4-4de2-a557-c02221d2f69f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='register-banner']/div/div/div/div[2]/div/div/div[3]/form/div[5]/div/app-validation-message/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>86bc08ff-f9af-4455-a19c-a23ca93dc744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex flex-column gap-1</value>
+      <webElementGuid>c14c243a-57d7-42be-be5f-99b9810d9995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Password is required.  The Password must have at least 8 characters, including one uppercase letter, one number, and one special character. </value>
+      <webElementGuid>4d74ce4b-b7c1-4075-9cf0-9d6aacbb6a8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;register-banner&quot;)/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;col-11 mx-auto&quot;]/div[@class=&quot;d-flex flex-md-row flex-column container mx-auto vh-100&quot;]/div[@class=&quot;col-12 col-md-4 justify-content-center right-side&quot;]/div[@class=&quot;ec-row py-5 ms-3&quot;]/div[@class=&quot;col-12 d-flex flex-column justify-content-center&quot;]/div[3]/form[@class=&quot;pb-5 ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;ec-row pb-2&quot;]/div[@class=&quot;ec-col-12&quot;]/app-validation-message[1]/div[@class=&quot;form-text text-danger ec-fs-6 fw-bold&quot;]/div[@class=&quot;d-flex flex-row&quot;]/div[@class=&quot;d-flex flex-column gap-1&quot;]</value>
+      <webElementGuid>6d41d376-8d94-4c49-bcbd-9eba5bcf2a3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='register-banner']/div/div/div/div[2]/div/div/div[3]/form/div[5]/div/app-validation-message/div/div/div</value>
+      <webElementGuid>7356895a-a434-4efa-9e81-29fea4891590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Password'])[1]/following::div[5]</value>
+      <webElementGuid>6dd74646-3b18-4d5c-9fa1-e276538441a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Birth Date is required.'])[1]/following::div[7]</value>
+      <webElementGuid>22fd4eaa-8eda-44ce-925d-db6a7ded2360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmation Password'])[1]/preceding::div[1]</value>
+      <webElementGuid>49bc9672-e192-4b99-999a-47b66d159cf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/app-validation-message/div/div/div</value>
+      <webElementGuid>4a9d745a-8065-48df-978c-a6065eac7783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Password is required.  The Password must have at least 8 characters, including one uppercase letter, one number, and one special character. ' or . = ' Password is required.  The Password must have at least 8 characters, including one uppercase letter, one number, and one special character. ')]</value>
+      <webElementGuid>7da2f77e-5b1a-4e48-bf80-81f96c30ed08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

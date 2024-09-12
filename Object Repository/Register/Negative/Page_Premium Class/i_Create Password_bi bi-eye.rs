@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Create Password_bi bi-eye</name>
+   <tag></tag>
+   <elementGuidId>55823d89-e810-4fea-a305-759d44ac26f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-eye</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='register-banner']/div/div/div/div[2]/div/div/div[3]/form/div[5]/div/div/div/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a6121787-6cdb-41c6-a4ce-382bc1a7ac0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-eye</value>
+      <webElementGuid>bec406ab-2f0c-4fe7-8a45-a86f4bb3f4da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;register-banner&quot;)/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;col-11 mx-auto&quot;]/div[@class=&quot;d-flex flex-md-row flex-column container mx-auto vh-100&quot;]/div[@class=&quot;col-12 col-md-4 justify-content-center right-side&quot;]/div[@class=&quot;ec-row py-5 ms-3&quot;]/div[@class=&quot;col-12 d-flex flex-column justify-content-center&quot;]/div[3]/form[@class=&quot;pb-5 ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;ec-row pb-2&quot;]/div[@class=&quot;ec-col-12&quot;]/div[@class=&quot;ec-input-group-rounded position-relative&quot;]/div[@class=&quot;d-flex align-items-top h-100 position-absolute end-0 pe-3&quot;]/button[@class=&quot;btn-ghost&quot;]/i[@class=&quot;bi bi-eye&quot;]</value>
+      <webElementGuid>1b588e9a-009d-406a-a237-ea645dde618b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='register-banner']/div/div/div/div[2]/div/div/div[3]/form/div[5]/div/div/div/button/i</value>
+      <webElementGuid>cb0121cb-4380-4e19-9711-2f2e1e065bac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>78871260-b228-4a29-833e-10866514b6c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

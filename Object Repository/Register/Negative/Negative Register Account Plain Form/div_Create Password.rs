@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Create Password</name>
+   <tag></tag>
+   <elementGuidId>658d266d-d835-45d2-b8e5-073c9f3913ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='register-banner']/div/div/div/div[2]/div/div/div[3]/form/div[5]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>356a9601-6a7e-40eb-8f66-72539af5dcda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ec-col-12</value>
+      <webElementGuid>7c8f9dd3-ef0e-4b1e-894e-d431a207bf16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Password</value>
+      <webElementGuid>3d8cd855-d0ce-4b51-a4e8-bd5f23673926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;register-banner&quot;)/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;col-11 mx-auto&quot;]/div[@class=&quot;d-flex flex-md-row flex-column container mx-auto vh-100&quot;]/div[@class=&quot;col-12 col-md-4 justify-content-center right-side&quot;]/div[@class=&quot;ec-row py-5 ms-3&quot;]/div[@class=&quot;col-12 d-flex flex-column justify-content-center&quot;]/div[3]/form[@class=&quot;pb-5 ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;ec-row pb-2&quot;]/div[@class=&quot;ec-col-12&quot;]</value>
+      <webElementGuid>f445e8a4-053e-45d7-9df1-f011415715ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='register-banner']/div/div/div/div[2]/div/div/div[3]/form/div[5]/div</value>
+      <webElementGuid>aa5ee88f-e622-443b-a90e-6ffc203c24a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Birth Date is required.'])[1]/following::div[2]</value>
+      <webElementGuid>7a916644-7810-4e39-a69a-2349adb542df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of Birth'])[1]/following::div[6]</value>
+      <webElementGuid>108319eb-6f46-4c6a-942e-924a9bb5a15c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmation Password'])[1]/preceding::div[3]</value>
+      <webElementGuid>f5ad734a-9b6a-4d6e-8b14-fb7389b142a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div</value>
+      <webElementGuid>eee6bfe5-2007-43e8-986f-05ab75dd6951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Create Password' or . = 'Create Password')]</value>
+      <webElementGuid>d00bbf47-1ddc-49fe-9f56-96dea9e65885</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Account Verification</name>
+   <tag></tag>
+   <elementGuidId>71a52f9a-bede-4bbf-96c8-78a153049a01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.subtitle-1.ec-primary-500</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='register-banner']/div/div/div/div[2]/div/div/div[2]/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>3c3d6497-8f90-4d3b-8c6c-eeba5292a4b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>subtitle-1 ec-primary-500</value>
+      <webElementGuid>a2b7cad8-aa46-4d8d-a3d5-5d237df23f30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Account Verification </value>
+      <webElementGuid>e879258a-297c-4d3a-b6c3-d74510cb3d18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;register-banner&quot;)/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;col-11 mx-auto&quot;]/div[@class=&quot;d-flex flex-md-row flex-column container mx-auto vh-100&quot;]/div[@class=&quot;col-12 col-md-4 justify-content-center right-side d-flex&quot;]/div[@class=&quot;ec-row py-5 ms-3&quot;]/div[@class=&quot;col-12 d-flex flex-column justify-content-center&quot;]/div[@class=&quot;text-center&quot;]/h1[@class=&quot;subtitle-1 ec-primary-500&quot;]</value>
+      <webElementGuid>ccf0317a-39b9-4f15-9bef-e0be72002bb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='register-banner']/div/div/div/div[2]/div/div/div[2]/h1</value>
+      <webElementGuid>e5b36e87-67ff-4298-ae7b-2c1f5dea43b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resent verification email'])[1]/preceding::h1[1]</value>
+      <webElementGuid>10c0a516-37c2-45e0-a392-638ab286b16a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Account Verification']/parent::*</value>
+      <webElementGuid>d2ec02a2-85d3-48b8-aaeb-850b3656ee52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>5ed1b18c-3afe-449d-b2d9-894c3490662c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = ' Account Verification ' or . = ' Account Verification ')]</value>
+      <webElementGuid>e18cf908-47db-4424-806f-b5ec9322894d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

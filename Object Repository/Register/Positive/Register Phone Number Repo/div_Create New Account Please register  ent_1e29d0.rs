@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Create New Account Please register  ent_1e29d0</name>
+   <tag></tag>
+   <elementGuidId>efbe8a08-577f-4903-9276-6f898c76a4aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.flex-column</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='register-banner']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>968ce7b5-2e06-4e31-acb7-41e6cb1ae51d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex flex-column</value>
+      <webElementGuid>8f847759-48ec-430b-91d6-742f5d1a6509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create New Account Please register &amp; enter your details Full nameEmailPhone Number+62Date of BirthCreate PasswordConfirmation PasswordRefresh captcha Create account </value>
+      <webElementGuid>58c37234-eeb5-4801-9a62-8846a4ca4538</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;register-banner&quot;)/div[@class=&quot;d-flex flex-column&quot;]</value>
+      <webElementGuid>7434d1e1-c7e4-4eeb-900a-2aefbad7a2c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='register-banner']/div</value>
+      <webElementGuid>4fed93a3-178a-4d04-9c4e-26d6874d43f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div</value>
+      <webElementGuid>53db403e-f2ad-4106-8003-94a486e936bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Create New Account Please register &amp; enter your details Full nameEmailPhone Number+62Date of BirthCreate PasswordConfirmation PasswordRefresh captcha Create account ' or . = 'Create New Account Please register &amp; enter your details Full nameEmailPhone Number+62Date of BirthCreate PasswordConfirmation PasswordRefresh captcha Create account ')]</value>
+      <webElementGuid>3ecd6141-401c-4770-83a8-c511b6b79bf9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Create New Account Please register  ent_58e2f8</name>
+   <tag></tag>
+   <elementGuidId>a36482d2-6d14-4460-a46d-46c604d7db19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.flex-column</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='register-banner']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>13b5e764-6e6d-4240-991d-2087f87a9379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex flex-column</value>
+      <webElementGuid>ddc3aa82-9018-4ef2-af81-1b1214403e74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create New Account Please register &amp; enter your details Full name Full Name is required.  Full Name should be alphabethic Email Email is required.  Invalid Email address Phone Number+62 Phone is required.  Invalid Phone. The phone number must consist of digits and contain 9-13 digits. Date of Birth Birth Date is required. Create PasswordConfirmation PasswordRefresh captcha Create account </value>
+      <webElementGuid>a8de0502-979d-4a97-a3ad-dfc1b885d4e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;register-banner&quot;)/div[@class=&quot;d-flex flex-column&quot;]</value>
+      <webElementGuid>507018a9-fe8c-4345-ab44-1ac86a92b252</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='register-banner']/div</value>
+      <webElementGuid>d254b213-0959-49e1-a46d-ad52b09c23de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div</value>
+      <webElementGuid>c71c5e0a-a78b-4084-9954-88a0bca3405c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Create New Account Please register &amp; enter your details Full name Full Name is required.  Full Name should be alphabethic Email Email is required.  Invalid Email address Phone Number+62 Phone is required.  Invalid Phone. The phone number must consist of digits and contain 9-13 digits. Date of Birth Birth Date is required. Create PasswordConfirmation PasswordRefresh captcha Create account ' or . = 'Create New Account Please register &amp; enter your details Full name Full Name is required.  Full Name should be alphabethic Email Email is required.  Invalid Email address Phone Number+62 Phone is required.  Invalid Phone. The phone number must consist of digits and contain 9-13 digits. Date of Birth Birth Date is required. Create PasswordConfirmation PasswordRefresh captcha Create account ')]</value>
+      <webElementGuid>c2b2d618-94eb-43c5-b8e6-a85496612a40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_Log InPlease enter your details Don_07bb18</name>
+   <tag></tag>
+   <elementGuidId>9cae2ae4-05ec-4635-bef6-258b0f48f311</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#home-banner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='home-banner']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>322a7c2f-c491-451e-be42-051002b3df43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>home-banner</value>
+      <webElementGuid>130492e3-49fe-4b04-a8fd-2a5810ce9f5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log InPlease enter your details Don’t have account? Create an accountEmailPassword Password is required.  The Password must have at least 8 characters, including one uppercase letter, one number, and one special character. Forgot Password Login or Sign up with google </value>
+      <webElementGuid>c2415f1c-45a5-4f81-b8c6-af70453f70ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-banner&quot;)</value>
+      <webElementGuid>46e6bf07-baf9-4edc-bffa-f50c5d97c646</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//section[@id='home-banner']</value>
+      <webElementGuid>4b00ed7f-32d9-4bcf-9d0b-6a6540d83bb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section</value>
+      <webElementGuid>eb9060f6-eeaa-4780-8c5d-cec27441779a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[@id = 'home-banner' and (text() = 'Log InPlease enter your details Don’t have account? Create an accountEmailPassword Password is required.  The Password must have at least 8 characters, including one uppercase letter, one number, and one special character. Forgot Password Login or Sign up with google ' or . = 'Log InPlease enter your details Don’t have account? Create an accountEmailPassword Password is required.  The Password must have at least 8 characters, including one uppercase letter, one number, and one special character. Forgot Password Login or Sign up with google ')]</value>
+      <webElementGuid>53efcafe-ccbf-4c17-88f1-4c8b8fa829df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

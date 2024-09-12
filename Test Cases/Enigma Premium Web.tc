@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Access Enigma Web on Browser</description>
-   <name>Enigma Premium Web</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>d94b3dc1-7322-4dce-83cf-9038887caaef</testCaseGuid>
-</TestCaseEntity>

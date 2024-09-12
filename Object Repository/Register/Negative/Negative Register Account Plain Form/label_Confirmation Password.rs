@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Confirmation Password</name>
+   <tag></tag>
+   <elementGuidId>6a1bfacc-1622-45a5-9c48-dc26e9ae9dd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='register-banner']/div/div/div/div[2]/div/div/div[3]/form/div[6]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e75a2c71-049f-4afd-808e-81382164c4f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>confirmPassword</value>
+      <webElementGuid>752a98f5-4c7a-43b2-a533-d79d3e9fa02b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ec-neutral-500 fw-bold mb-1</value>
+      <webElementGuid>1d1d8ddb-f3a3-4ecd-a776-6b452c40fba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirmation Password</value>
+      <webElementGuid>c80e219e-e5f1-41ce-810c-43d54fddeedf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;register-banner&quot;)/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;col-11 mx-auto&quot;]/div[@class=&quot;d-flex flex-md-row flex-column container mx-auto vh-100&quot;]/div[@class=&quot;col-12 col-md-4 justify-content-center right-side&quot;]/div[@class=&quot;ec-row py-5 ms-3&quot;]/div[@class=&quot;col-12 d-flex flex-column justify-content-center&quot;]/div[3]/form[@class=&quot;pb-5 ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;ec-row pb-2&quot;]/div[@class=&quot;ec-col-12&quot;]/label[@class=&quot;ec-neutral-500 fw-bold mb-1&quot;]</value>
+      <webElementGuid>0df2f520-f346-4631-a690-ec6dac5ad217</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='register-banner']/div/div/div/div[2]/div/div/div[3]/form/div[6]/div/label</value>
+      <webElementGuid>ab70176f-07f5-42d1-8976-1e0703bc82cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password is required.'])[1]/following::label[1]</value>
+      <webElementGuid>8263fa08-a94c-4791-84b7-f4ff9221f961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Password'])[1]/following::label[1]</value>
+      <webElementGuid>a54da253-9d43-410a-ab2d-bb28faeee0c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Password is required.'])[1]/preceding::label[1]</value>
+      <webElementGuid>a3548bc5-a77d-4ab8-8434-b93be4aaca3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh captcha'])[1]/preceding::label[1]</value>
+      <webElementGuid>c0a2599b-3793-4bd7-96c1-efcf553c9d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Confirmation Password']/parent::*</value>
+      <webElementGuid>e922a335-8583-4c68-a99d-73ffd849f93e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/label</value>
+      <webElementGuid>b4f49db4-db60-459a-a3fe-4cdc86f98b3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Confirmation Password' or . = 'Confirmation Password')]</value>
+      <webElementGuid>4e59e9a5-514b-439d-9559-c0e063e13092</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

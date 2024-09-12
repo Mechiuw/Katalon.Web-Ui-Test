@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Create New Account Please register  ent_58e2f8_1</name>
+   <tag></tag>
+   <elementGuidId>fd02e321-0035-47e4-9a14-8f3873fbeccd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.flex-column</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='register-banner']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2dac9cf9-f7b3-41f9-bd01-00f042a12ee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex flex-column</value>
+      <webElementGuid>0f561b4c-49ba-42fa-8368-fc7a37bfafeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create New Account Please register &amp; enter your details Full name Full Name is required.  Full Name should be alphabethic Email Email is required.  Invalid Email address Phone Number+62 Phone is required.  Invalid Phone. The phone number must consist of digits and contain 9-13 digits. Date of Birth The minimum age to register is 5 years. Create PasswordConfirmation PasswordRefresh captcha Create account </value>
+      <webElementGuid>ab6a5b7e-671e-4358-ab54-d67bdaedc36e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;register-banner&quot;)/div[@class=&quot;d-flex flex-column&quot;]</value>
+      <webElementGuid>5ffd8b9f-a884-42db-b9df-f2feda7e7534</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='register-banner']/div</value>
+      <webElementGuid>92f350bf-d070-42b4-8559-51728071ee86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div</value>
+      <webElementGuid>f1dfd7a3-03f5-49e3-b931-49748e7981f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Create New Account Please register &amp; enter your details Full name Full Name is required.  Full Name should be alphabethic Email Email is required.  Invalid Email address Phone Number+62 Phone is required.  Invalid Phone. The phone number must consist of digits and contain 9-13 digits. Date of Birth The minimum age to register is 5 years. Create PasswordConfirmation PasswordRefresh captcha Create account ' or . = 'Create New Account Please register &amp; enter your details Full name Full Name is required.  Full Name should be alphabethic Email Email is required.  Invalid Email address Phone Number+62 Phone is required.  Invalid Phone. The phone number must consist of digits and contain 9-13 digits. Date of Birth The minimum age to register is 5 years. Create PasswordConfirmation PasswordRefresh captcha Create account ')]</value>
+      <webElementGuid>a5cb45c5-02b9-4ae8-89e2-aa2960f505db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>refresh captcha button test</description>
-   <name>Register Refresh Captcha</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>6c710ef6-2e5c-4279-9baf-81a7f01751ab</testCaseGuid>
-</TestCaseEntity>
